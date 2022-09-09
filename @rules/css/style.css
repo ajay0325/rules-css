@@ -1,0 +1,20 @@
+@import "./style1.css";
+
+.about {
+    border: 2px solid pink;
+    /* color: green; */
+
+}
+
+
+p {
+    background-color: aqua !important ;
+}
+#myid {
+    background-color: green ;
+}
+
+.myclass {
+    background-color: orange;
+}
+

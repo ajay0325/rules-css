@@ -1,0 +1,16 @@
+body {
+    background-color: gray;
+    color: red;
+    /* font-family: myFirstFont; */
+}
+@font-face {
+    font-family: ajay;
+    src: url(/monster_ag/Monster\ AG.ttf);
+}
+div{
+font-family: ajay;
+}
+
+
+
+  
